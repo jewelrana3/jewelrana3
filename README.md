@@ -1,4 +1,4 @@
-https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1lcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOQAS5f1JyWgwo6-AmZ5mg1KJoa4guRrA85GPikRd_M688Vt5ZxYlSLbdpKGwuh1B64M&usqp=CAU
 
 
 ### Hi there 👋, I am Jewel Rana

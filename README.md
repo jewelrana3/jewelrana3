@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOQAS5f1JyWgwo6-AmZ5mg1KJoa4guRrA85GPikRd_M688Vt5ZxYlSLbdpKGwuh1B64M&usqp=CAU
+https://i.ibb.co/xzVC8mS/images.jpg
 
 
 ### Hi there 👋, I am Jewel Rana

@@ -1,4 +1,5 @@
-https://i.ibb.co/xzVC8mS/images.jpg
+![logo](https://as1.ftcdn.net/v2/jpg/05/60/92/48/1000_F_560924862_oSCRkmR2WPp2IWv1AzSjSIttpUx16PvL.jpg)
+
 
 
 ### Hi there 👋, I am Jewel Rana

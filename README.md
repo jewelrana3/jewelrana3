@@ -1,30 +1,18 @@
-![logo](https://as1.ftcdn.net/v2/jpg/05/60/92/48/1000_F_560924862_oSCRkmR2WPp2IWv1AzSjSIttpUx16PvL.jpg)
+![logo](https://github.com/jewelrana3/jewelrana3/blob/main/Jewel%20rana.jpg?raw=true)
+<h1 align="center">Hi 👋, I'm Jewel rana</h1>
+<h3 align="center">A passionate MERN Developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelrana3&label=Profile%20views&color=0e75b6&style=flat" alt="jewelrana3" /> </p>
 
 
 
-### Hi there 👋, I am Jewel Rana
-#### Web Devoloper
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juyel haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juyel haque" height="30" width="40" /></a>
+<a href="https://discord.gg/mdjuyelrana_15831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdjuyelrana_15831" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: HTML / CSS /  JS / REACT  / MONGODB
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React js 
-- 👯 I’m looking to collaborate on Web Devolopment 
-- 💬 Ask me about Github 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jewelrana3)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelrana3)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelrana3&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jewelrana3)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jewelrana3)  
-
-![Profile views](https://gpvc.arturio.dev/jewelrana3)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewelrana3&" alt="jewelrana3" /></p>

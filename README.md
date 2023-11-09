@@ -1,6 +1,6 @@
 ![logo](https://github.com/jewelrana3/jewelrana3/blob/main/Jewel%20rana.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Jewel rana</h1>
-<h3 align="center">A passionate MERN Developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelrana3&label=Profile%20views&color=0e75b6&style=flat" alt="jewelrana3" /> </p>
 

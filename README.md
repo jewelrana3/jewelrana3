@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Juyel Haque</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-<p align="left"> <img src="https://www.canva.com/design/DAFzXdGjHuA/I8_3qzahRoc62KkTaYGGiA/edit?utm_content=DAFzXdGjHuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  alt="photo"/> </p>
+<p align="left"> </p>
 
 
 

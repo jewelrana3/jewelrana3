@@ -6,7 +6,7 @@
 
 <br/>
 
-![Black Modern Personal LinkedIn Banner](https://github.com/Asfak00/asfak00/assets/108581106/a52fdd07-a694-4ac4-94e4-67700d320d13)
+
 
 <h1> About Me </h1>
 

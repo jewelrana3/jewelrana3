@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/jewelrana3/jewelrana3/blob/main/Jewel%20rana.png)
 <h1 align="center">Hi 👋, I'm Juyel Haque</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 

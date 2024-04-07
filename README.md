@@ -6,7 +6,9 @@
 
 <br/>
 
-
+<p align="center">
+  <img  src="https://i.ibb.co/JrkYQ4X/Juyel-Haque-2.png" width="800px">
+</p>
 
 <h1> About Me </h1>
 

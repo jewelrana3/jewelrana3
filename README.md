@@ -35,7 +35,7 @@ I am Juyel Haque. I am a front-end web developer. I have been working in this se
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juyel-haqu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juyel-haqu/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jewelrana2129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jewelrana2129" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/juyelrana127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juyelrana127/" height="30" width="40" /></a>
+
 <a href="https://discord.gg/mdjuyelrana_15831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdjuyelrana_15831" height="30" width="40" /></a>
 </p>
 <br/>

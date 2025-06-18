@@ -7,7 +7,8 @@
 
 <h1> About Me </h1>
 
-I am Juyel Haque. I am a front-end web developer. I have been working in this sector for the past 1.5+ years.
+Hi, I’m Juyel Haque!
+I’m a passionate Frontend Web Developer focused on building responsive, user-friendly web applications and delivering seamless user experiences.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

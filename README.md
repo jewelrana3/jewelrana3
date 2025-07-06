@@ -8,7 +8,7 @@
 
 <h1> About Me </h1>
 
-Hi, I’m Juyel Haque!
+Hi, I’m Juyel Rana!
 
 <br />
 I’m a passionate Frontend Web Developer focused on building responsive, user-friendly web applications and delivering seamless user experiences.

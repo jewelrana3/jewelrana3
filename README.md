@@ -14,7 +14,7 @@
 
 ```javascript
 const mahmud = {
-    location: "Bangladesh 🇧🇩",
+    location: "Chuadanga,Khulna , Bangladesh 🇧🇩",
     role: "Frontend Developer",
     technologies: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
@@ -74,7 +74,7 @@ const mahmud = {
 - 🌱 **Learning:** Next.js & TypeScript
 - 💼 **Open for:** Frontend & Full Stack opportunities
 - 🤝 **Collaborate on:** React projects & open source
-- 💬 **Ask me about:** React, CSS, JavaScript, MERN Stack
+- 💬 **Ask me about:** React, CSS, JavaScript
 
 ---
 
@@ -109,7 +109,7 @@ const mahmud = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jewelrana3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <h3>⭐ Show some love by starring my repositories! ⭐</h3>
   

@@ -1,76 +1,123 @@
+# 🌟Juyel Haque
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Enthusiast;Frontend+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
+## 🚀 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
 
+```javascript
+const mahmud = {
+    location: "Bangladesh 🇧🇩",
+    role: "Frontend Developer",
+    technologies: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js",
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I think"
+};
+```
 
+🔥 **Passionate about transforming ideas into beautiful, functional websites**  
+💡 **Constantly learning and adapting to new technologies**  
+🎯 **Focused on clean code and exceptional user experiences**  
+🌈 **Bringing creativity and technical expertise to every project**
 
-<h1> About Me </h1>
+---
 
-Hi, I’m Juyel Rana!
+## 🛠️ Tech Arsenal
 
-<br />
-I’m a passionate Frontend Web Developer focused on building responsive, user-friendly web applications and delivering seamless user experiences.
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelrana3&label=Profile%20views&color=0e75b6&style=flat" alt="jewelrana3" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-tau-ashen-34.vercel.app/](https://portfolio-tau-ashen-34.vercel.app/)
-
-- 💬 Ask me about **React and JavaScript**
-
-- 📫 How to reach me **juyelhaque29@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qzyCfgm4toL9hdutd16HdUe5Qs8Z80bk/view?usp=sharing](https://drive.google.com/file/d/1qzyCfgm4toL9hdutd16HdUe5Qs8Z80bk/view?usp=sharing)
-- <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juyel-haqu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juyel-haqu/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jewelrana2129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jewelrana2129" height="30" width="40" /></a>
-
-<a href="https://discord.gg/mdjuyelrana_15831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdjuyelrana_15831" height="30" width="40" /></a>
-</p>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<br/>
-<h3 align="left">Programming Language :</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h3 align="left">Technology :</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,bootstrap&theme=dark" />
 </p>
 
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Tools :</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>      <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-03-21/334235045829_1d1db85d6877560365df_512.png" alt="bitbucket" width="40" height="40"/> </a>    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*o474X_2eTiF2Dnn39h6Rjg.jpeg" alt="npm" width="50" height="30"/> </a>    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY" alt="canva" width="40" height="40" /> </a> 
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 </p>
-</br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark" />
+</p>
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewelrana3&show_icons=true&locale=en&layout=compact" alt="jewelrana3" /></p>
-</br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jewelrana3&show_icons=true&locale=en" alt="jewelrana3" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassansabbir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassansabbir&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewelrana3&" alt="jewelrana3" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hassansabbir&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="streak graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🌱 **Learning:** Next.js & TypeScript
+- 💼 **Open for:** Frontend & Full Stack opportunities
+- 🤝 **Collaborate on:** React projects & open source
+- 💬 **Ask me about:** React, CSS, JavaScript, MERN Stack
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/juyel-haqu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juyelhaque29@gmail.com)
+
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+  
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/13hv2fQ_8m_owqqVz0YzB4mKO2yl5DlgsLyS51hwDmFY/edit?tab=t.0)
+
+</div>
+
+---
+
+## 🎮 Fun Zone
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <h3>⭐ Show some love by starring my repositories! ⭐</h3>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <i>💻 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>

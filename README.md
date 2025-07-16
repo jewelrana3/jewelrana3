@@ -1,7 +1,7 @@
 # 🌟Juyel Haque
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Enthusiast;Frontend+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Frontend+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
 
 ```javascript
-const mahmud = {
+let rana  = {
     location: "Chuadanga,Khulna , Bangladesh 🇧🇩",
     role: "Frontend Developer",
     technologies: {
@@ -72,7 +72,7 @@ const mahmud = {
 ## 🎯 Current Focus
 
 - 🌱 **Learning:** Next.js & TypeScript
-- 💼 **Open for:** Frontend & Full Stack opportunities
+- 💼 **Open for:** Frontend Developer
 - 🤝 **Collaborate on:** React projects & open source
 - 💬 **Ask me about:** React, CSS, JavaScript
 

@@ -14,7 +14,7 @@
 
 ```javascript
 let rana  = {
-    location: "Chuadanga,Khulna , Bangladesh 🇧🇩",
+    location: "Chuadanga,Khulna , Bangladesh",
     role: "Frontend Developer",
     technologies: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
